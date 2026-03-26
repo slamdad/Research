@@ -1,9 +1,3 @@
-# Powershell
-
-[PowerShell Commands & Scripts.pdf](Powershell/PowerShell_Commands__Scripts.pdf)
-
-[Untitled spreadsheet.xlsx](Powershell/Untitled_spreadsheet.xlsx)
-
 That's a very comprehensive list of commands and topics, primarily spanning **PowerShell scripting fundamentals** and **Network/Active Directory Enumeration** (common in penetration testing/red teaming).
 
 I will organize the core PowerShell commands based on their purpose and explain how they are typically combined in a post-exploitation or reconnaissance workflow. I'll exclude the direct exploitation commands like those downloading Meterpreter.

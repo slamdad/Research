@@ -1,6 +1,4 @@
-# Networking
-
-![image.png](Networking/image.png)
+![image.png](attachment:4945623b-2303-4762-ab43-76deb8ba423d:image.png)
 
 ## **Network Protocols – Quick Notes**
 
@@ -124,7 +122,7 @@ Think of it like:
 - Open ports can be scanned by attackers.
 - **Firewalls** and **port filtering** help close unused ports and protect systems.
 
-![image.png](Networking/image%201.png)
+![image.png](attachment:172b7a25-9539-45e0-9cc5-794a9423f2f2:image.png)
 
 ## ENCAPSULTION
 

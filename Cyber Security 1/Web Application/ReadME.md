@@ -1,11 +1,3 @@
-# Web Application
-
----
-
-[BurpSuite](Web%20Application/BurpSuite%2026108abb572d80e0820eed008c30497b.md)
-
-[Port Swigger](Web%20Application/Port%20Swigger%2026108abb572d80ed86a3d4704d86d6d2.md)
-
 # 🌐 Web Applications – Complete Explanation with Examples
 
 ---

@@ -1,9 +1,3 @@
-# Linux
-
-[Linux Privilege Escalation ](Linux/Linux%20Privilege%20Escalation%2028308abb572d808f822ecf7e02dd398b.md)
-
----
-
 # 1. Linux Basics — navigation & filesystem
 
 ## File & Directory Commands

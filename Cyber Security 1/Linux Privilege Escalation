@@ -1,5 +1,3 @@
-# Linux Privilege Escalation
-
 ## 🧰 Popular Linux Enumeration Tools (Explained Simply)
 
 ### 1. **LinPEAS**
@@ -400,5 +398,3 @@ chmod +s rootshell
 Now you have root access.
 
 ---
-
-[My Actual Notes](Linux%20Privilege%20Escalation/My%20Actual%20Notes%2028308abb572d81758799ee13b2a7f769.md)

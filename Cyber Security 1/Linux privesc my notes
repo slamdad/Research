@@ -1,6 +1,3 @@
-# My Actual Notes
-
-```bash
 Previlege Escalation (P.E)
 	
 (1)
@@ -163,5 +160,3 @@ NFS Based-Privilege Escalation
 		cmd: ./sharedfolders
 			we'll have root access.												
 					
-
-```
